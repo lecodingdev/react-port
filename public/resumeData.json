@@ -1,0 +1,54 @@
+{
+    "main": {
+        "name" : "Alan Tanadi",
+        "description" : "I am a Frontend Engineer",
+        "image" : "profilepic.jpg",
+        "github" : "https://github.com/lecodingdev",
+        "project" : "https://www.lecodingdev.id/",
+        "medium" : "https://medium.com/@lecodingdev",
+        "bio" : "I'm bachelor of Marketing Management at Atma Jaya Yogyakarta University. I am interested in Software Engineer, especially in the field of Frontend Engineer, I'm using reactjs for development. I love to playing basketball and even coached kids basketball.",
+        "contactmessage" : "Here is where you should write your message",
+        "email" : "alantanadi10@gmail.com",
+        "phone" : "(+62) 821-9883-8803",
+        "address":{
+            "street":"Jl Kledokan Raya no 38D",
+            "city":"Sleman",
+            "state":"Yogyakarta",
+            "zip": "55281"
+        },
+        "resumedownload" : "https://github.com/alantanadi"
+    },
+    "resume" : {
+        "skillmessage" : "Im a Frontend Engineer specialist in ReactJs",
+        "education" : [
+            {
+                "school" : "University of Atma Jaya Yogyakarta",
+                "degree" : "Bachelor degree of Marketing Management",
+                "graduated" : "August 2018",
+                "description" : "Manager of the faculty basketball student activity unit from 2015-2017"
+            }
+        ],
+        "work" : [
+            {
+                "company" : "DBL Academy Yogyakarta",
+                "title" : "Assistant Basketball Coach",
+                "years" : "August 2019 - December 2021",
+                "description" : "- Train children ages 5 to 15 years - Make training materials according to the curriculum - Fill out the child's daily progress report for each practice - Meet with parents of students to discuss child development"
+            }
+        ],
+        "skills" : [
+            {
+                "name" : "ReactJS",
+                "level" : "80%"
+            },
+            {
+                "name" : "Javascript",
+                "level" : "80%"
+            },
+            {
+                "name" : "CSS",
+                "level" : "85%"
+            }
+        ]
+    }    
+}
